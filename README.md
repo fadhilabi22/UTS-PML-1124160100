@@ -5,6 +5,14 @@
 * **NIM:** 1124160100
 * **Program Studi:** Teknik Informatika (Konsentrasi Software Engineering)
 * **Institusi:** Institut Teknologi dan Bisnis Bina Sarana Global
+## Link Youtube
+* Link:
+
+## Screenshot Aplikasi
+
+| Halaman Login | Halaman Profil | Halaman Tentang Saya | Halaman Edit Profil |
+| :---: | :---: | :---: | :---: |
+| <img src="soal2-profil-app/assets/screenshot/ss1.jpeg" width="180" alt="Halaman Login"/> | <img src="soal2-profil-app/assets/screenshot/ss2.jpeg" width="180" alt="Halaman Profil"/> | <img src="soal2-profil-app/assets/screenshot/ss3.jpeg" width="180" alt="Halaman Tentang Saya"/> | <img src="soal2-profil-app/assets/screenshot/ss4.jpeg" width="180" alt="Halaman Edit Profil"/> |
 ## Daftar Fitur
 * **Login (`LoginPage`):** Validasi input email dan password sebelum masuk ke halaman utama menggunakan `Navigator.pushReplacement`.
 * **Profil Mahasiswa (`ProfilePage`):** Menampilkan foto dari aset lokal (`assets/images/profile.jpeg`) dengan `CircleAvatar`, biodata lengkap, kartu kontak menggunakan *reusable widget* `InfoTile`, serta pengubah tema **Light / Dark Mode**.
