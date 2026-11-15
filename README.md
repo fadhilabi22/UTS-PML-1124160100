@@ -6,7 +6,7 @@
 * **Program Studi:** Teknik Informatika (Konsentrasi Software Engineering)
 * **Institusi:** Institut Teknologi dan Bisnis Bina Sarana Global
 ## Link Youtube
-* Link:
+* **Link YouTube:** [Tonton Video Demo Aplikasi Profil Fadhil](https://youtu.be/NhTdqcV076k?si=JG1ymRh7QUmqt0-T)
 
 ## Screenshot Aplikasi
 
